@@ -1,0 +1,1 @@
+- installation [follow](https://www.geeksforgeeks.org/how-to-install-dlib-library-for-python-in-windows-10/)
